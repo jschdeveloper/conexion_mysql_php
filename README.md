@@ -1,4 +1,5 @@
-#Ejemplos de programación
+#Connection MySQL + PHP
 
-## Aquí esta los archivos necesarios para crear una conexión Mysql y PHP
+Class with the methods to create a connection with DB, this example can be used in other projects.
+
 
